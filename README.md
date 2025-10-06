@@ -10,8 +10,8 @@ Minimal scientific stack: `numpy`, progress bars via `tqdm`, and Jupyter for the
 ## Installation
 
 ```bash
-git clone XXXX  # TODO: replace with actual repo URL
-cd process-pools
+git clone https://github.com/eschombu/process-pool-demo.git
+cd process-pool-demo
 python3.13 -m venv .venv/py313  # Replace with python3.14t for free-threaded Python installation
 source .venv/py313/bin/activate
 pip install --upgrade pip
